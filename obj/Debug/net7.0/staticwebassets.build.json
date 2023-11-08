@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "/dFs1Nrni1uh7kQeLaIqxmFx2ARh08hhCwXsmEyK5mU=",
+  "Source": "Truck1",
+  "BasePath": "_content/Truck1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Truck1\\wwwroot",
+      "Source": "Truck1",
+      "ContentRoot": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\",
+      "BasePath": "_content/Truck1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\Images\\03e435be-c578-4123-b54f-b9332e896034_Truck.jpeg",
+      "SourceId": "Truck1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\",
+      "BasePath": "_content/Truck1",
+      "RelativePath": "Images/03e435be-c578-4123-b54f-b9332e896034_Truck.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\03e435be-c578-4123-b54f-b9332e896034_Truck.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\Images\\40505545-c1f6-4844-8a4e-61df4c87a7dc_Truck.jpeg",
+      "SourceId": "Truck1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\",
+      "BasePath": "_content/Truck1",
+      "RelativePath": "Images/40505545-c1f6-4844-8a4e-61df4c87a7dc_Truck.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\40505545-c1f6-4844-8a4e-61df4c87a7dc_Truck.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\Images\\4fee8941-34e2-49e1-8a8d-4521eea74237_Truck.jpeg",
+      "SourceId": "Truck1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\",
+      "BasePath": "_content/Truck1",
+      "RelativePath": "Images/4fee8941-34e2-49e1-8a8d-4521eea74237_Truck.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\4fee8941-34e2-49e1-8a8d-4521eea74237_Truck.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\Images\\9eb4b9f9-419f-4415-a12b-1981c3198567_Truck.pdf",
+      "SourceId": "Truck1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\desktop\\dotnetpractice\\Truck1\\wwwroot\\",
+      "BasePath": "_content/Truck1",
+      "RelativePath": "Images/9eb4b9f9-419f-4415-a12b-1981c3198567_Truck.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\9eb4b9f9-419f-4415-a12b-1981c3198567_Truck.pdf"
+    }
+  ]
+}
